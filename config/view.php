@@ -15,7 +15,7 @@ return [
 
     'paths' => [
         // resource_path('views'),
-        app_path('interfaces/http/resources/view'),
+        app_path('http/resources/views'),
     ],
 
     /*

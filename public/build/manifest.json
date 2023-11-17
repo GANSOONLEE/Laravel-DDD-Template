@@ -1,0 +1,14 @@
+{
+  "app/Interfaces/Http/resources/ts/app.css": {
+    "file": "assets/app-a01fcc26.css",
+    "src": "app/Interfaces/Http/resources/ts/app.css"
+  },
+  "app/Interfaces/Http/resources/ts/app.js": {
+    "css": [
+      "assets/app-a01fcc26.css"
+    ],
+    "file": "assets/app-2a0c7bdc.js",
+    "isEntry": true,
+    "src": "app/Interfaces/Http/resources/ts/app.js"
+  }
+}
