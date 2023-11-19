@@ -1,14 +1,12 @@
 {
-  "app/Interfaces/Http/resources/ts/app.css": {
-    "file": "assets/app-a01fcc26.css",
-    "src": "app/Interfaces/Http/resources/ts/app.css"
-  },
-  "app/Interfaces/Http/resources/ts/app.js": {
-    "css": [
-      "assets/app-a01fcc26.css"
-    ],
-    "file": "assets/app-2a0c7bdc.js",
+  "app/interfaces/http/resources/js/app.ts": {
+    "file": "assets/app-c380e389.js",
     "isEntry": true,
-    "src": "app/Interfaces/Http/resources/ts/app.js"
+    "src": "app/interfaces/http/resources/js/app.ts"
+  },
+  "app/interfaces/http/resources/scss/app.scss": {
+    "file": "assets/app-6dfb0a2d.css",
+    "isEntry": true,
+    "src": "app/interfaces/http/resources/scss/app.scss"
   }
 }

@@ -15,6 +15,23 @@ require_once app_path('Helpers/Global/SystemHelper.php');
 |
 */
 
-Route::get('/', function () {
-    return view('layouts.app');
-});
+/*
+ |-----------------------------
+ | Frontend
+ |-----------------------------
+ |
+ */
+
+ /*
+ |-----------------------------
+ | Backend
+ |-----------------------------
+ | 
+ */
+
+Route::prefix('backend')
+    ->as('backend.')
+    ->group(function () {
+        includeRouteFiles(__DIR__ . '/backend/');
+    });
+

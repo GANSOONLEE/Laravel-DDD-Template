@@ -1,4 +1,9 @@
 
+/* —————————————————————————— Tailwind CSS —————————————————————————— */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
 /* —————————————————————————— Clear preset ——————————————————————————*/
 
 *{
@@ -9,6 +14,10 @@
 
 html{
 
+}
+
+body{
+    position: relative;
 }
 
 a{
